@@ -2,7 +2,7 @@ name: Java CI with Gradle
 
 on:
   push:
-    branches: [ llama ]
+    branches: [ carpet-fix ]
   pull_request:
     branches: [ llama ]
 
